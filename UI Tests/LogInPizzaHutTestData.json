@@ -1,0 +1,23 @@
+{
+   "goodLogin": 
+   [
+      {
+         "Email": "Lauraelena2794@yahoo.com",
+         "Parola": "Tatamama2"
+         
+      }
+
+   ],
+   "badLogin": 
+   [
+      {
+         "Email": "Lauraelena2794@yahoo.com",
+         "Parola": "invalidpass1"
+      },
+   
+      {
+         "Email": "Lauraelena2784@yahoo.com",
+         "Parola": "Tatamama2"
+      }
+   ]
+}

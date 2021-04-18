@@ -1,0 +1,27 @@
+{
+   "gooddata": 
+    [
+       {
+                
+          "Prenume":"Laura",
+          "Nume": "Elena",
+          "Email":"Lauraelena2794@yahoo.com",
+          "Parolă":"Tatamama2",
+          "Confirmareparolă":"Tatamama2",
+          "Telefon":"0784051034"
+          
+       }
+    ],
+    "baddata": 
+    [
+       {
+                
+            "Prenume":"jshdf",
+            "Nume": "sfnff",
+            "Email":"dfhnfm@yahoo.com",
+            "Parolă":"tatamama",
+            "Confirmareparolă":"tatamama",
+            "Telefon":"0084051024"
+       }
+    ]
+ }
